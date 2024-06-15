@@ -1,5 +1,5 @@
 # QR-Code-Generator
-This repository contains a simple yet powerful QR code generator built with HTML, CSS, and JavaScript. Generate QR codes for your URLs, text, emails, phone numbers, and more with ease.
+Welcome to the QR Code Generator  repository! This repository contains a simple yet powerful QR code generator built with HTML, CSS, and JavaScript. Generate QR codes for your URLs, text, emails, phone numbers, and more with ease.
 
 Creating a QR code generator using HTML, CSS, and JavaScript involves several steps. Here's a step-by-step guide to help you build your own QR code generator and how to get an API key for generating QR codes.
 
